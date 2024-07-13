@@ -40,6 +40,7 @@ to the other vendors? Do you think they are selling the same kind of diamonds? H
 you come to this conclusion?
 2. What is the relationship between Carat and Retail Price? Why do you think the
 relationship takes this form?
+
 <br>
 ## Scoring
 <br>
