@@ -62,7 +62,7 @@ might extract meaningful information from text values.
 • Rejected offers don’t return any profit, but do count towards your budget.
 <br>
 **• Feel free to perform outside research to better understand what relationships might
-exist in diamond pricing
+exist in diamond pricing**
 <br>
 • The write-up is your chance to walk people through, not just the exact steps you took to
 solve the assessment, but the journey you took to get there. For example, feel free to
