@@ -38,9 +38,9 @@ charts or graphs that you feel help answer the questions.<br>
 1. Do you think that any of the vendors are over or under charging for diamonds compared
 to the other vendors? Do you think they are selling the same kind of diamonds? How did
 you come to this conclusion?
-<br>
 2. What is the relationship between Carat and Retail Price? Why do you think the
 relationship takes this form?
+<br>
 ## Scoring
 A full submission contains:
 <br>
