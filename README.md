@@ -42,6 +42,7 @@ you come to this conclusion?
 relationship takes this form?
 <br>
 ## Scoring
+<br>
 A full submission contains:
 <br>
 We will measure the performance of your model/rules by profit. In other words, we will take
@@ -50,7 +51,9 @@ predictions from your scored data and compute the following:<br>
 <br>This being said, profit is not the only aspect of your model we will examine. We care about your
 approach and knowledge more and weigh your write up and description just as heavily as your
 final profit.
+<br>
 ## Tips
+<br>
 • Be sure to examine the scoring data before beginning and reflect on what data might
 be important to consider when solving the problem.
 <br>
