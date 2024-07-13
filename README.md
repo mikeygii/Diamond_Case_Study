@@ -45,7 +45,9 @@ relationship takes this form?
 We will measure the performance of your model/rules by profit. In other words, we will take
 predictions from your scored data and compute the following:
 <br>
-∑(𝑅𝑒𝑡𝑎𝑖𝑙 𝑃𝑟𝑖𝑐𝑒 𝑜𝑓 𝐴𝑐𝑐𝑒𝑝𝑡𝑒𝑑 𝑂𝑓𝑓𝑒𝑟𝑠 − 𝐴𝑐𝑐𝑒𝑝𝑡𝑒𝑑 𝑂𝑓𝑓𝑒𝑟𝑠)
+
+**∑(𝑅𝑒𝑡𝑎𝑖𝑙 𝑃𝑟𝑖𝑐𝑒 𝑜𝑓 𝐴𝑐𝑐𝑒𝑝𝑡𝑒𝑑 𝑂𝑓𝑓𝑒𝑟𝑠 − 𝐴𝑐𝑐𝑒𝑝𝑡𝑒𝑑 𝑂𝑓𝑓𝑒𝑟𝑠)
+
 <br> 
 This being said, profit is not the only aspect of your model we will examine. We care about your
 approach and knowledge more and weigh your write up and description just as heavily as your
