@@ -41,7 +41,7 @@ you come to this conclusion?
 2. What is the relationship between Carat and Retail Price? Why do you think the
 relationship takes this form?
 <br>
-## Scoring
+### Scoring
 <br>
 A full submission contains:
 <br>
@@ -54,7 +54,7 @@ This being said, profit is not the only aspect of your model we will examine. We
 approach and knowledge more and weigh your write up and description just as heavily as your
 final profit.
 <br>
-## Tips
+### Tips
 <br>
 • Be sure to examine the scoring data before beginning and reflect on what data might
 be important to consider when solving the problem.
