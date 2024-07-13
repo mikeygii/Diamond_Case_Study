@@ -10,7 +10,7 @@ decision to sell you the diamond at that price. If your offer is accepted then y
 diamond and you will be awarded the difference between the retail price your company can
 eventually sell the diamond for and the price that you offered as profit. If you fail to make a
 purchase, you simply do not get anything for profit.
-What you will return to Enova is a copy of any code used, a description of your process,
+You should have by the end of the case study is a copy of code used, a description of your process,
 answers to the short answer questions, and the offers file with the offer column populated. The
 offer column should be populated only on diamonds you wish to make an offer on, and the sum
 of the offers needs to be less than or equal to $5,000,000.
@@ -32,7 +32,8 @@ for being less than the price the seller wants you pay nothing, but you don’t 
 diamond.
 Your profit will be calculated as the sum of retail price the diamonds will eventually sell for minus
 the sum of your accepted offers. You make no profit on rejected offers.
-#Short Answer Problems
+<br>
+## Short Answer Problems
 Please provide short (a paragraph or so) answers to these questions. Feel free to include any
 charts or graphs that you feel help answer the questions.<br>
 1. Do you think that any of the vendors are over or under charging for diamonds compared
@@ -60,13 +61,10 @@ might extract meaningful information from text values.
 <br>
 • Rejected offers don’t return any profit, but do count towards your budget.
 <br>
-• Feel free to perform outside research to better understand what relationships might
+**• Feel free to perform outside research to better understand what relationships might
 exist in diamond pricing
 <br>
-• If you don’t know how to build a statistical model, that’s fine! Try to think about a set
-of rules that can help you figure out which diamond to put offers on. A good, datadriven, rules-based approach can show your skill with data as well.
-<br>
-• The write-up is your chance to walk us through, not just the exact steps you took to
+• The write-up is your chance to walk people through, not just the exact steps you took to
 solve the assessment, but the journey you took to get there. For example, feel free to
 include details on why you selected a particular method or anything you tried that
 didn’t work.
@@ -74,4 +72,3 @@ didn’t work.
 • Previous candidates have attempted to run the data through a black box or generic
 model before thinking critically about the data and problem. They typically saw
 limited results
-Thank you for your interest in Enova! We look forward to speaking with you. Good Luck!
