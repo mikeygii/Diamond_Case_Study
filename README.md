@@ -1,6 +1,12 @@
 # Diamond Case Study
 ## File Contents
-Data Dictionary- Contains the fields used in the table and their definitions
+<br>Data Dictionary- Contains the fields used in the table and their definitions
+<br>REPORT - A write to explain my process and findings. It contains the answers to the short questions as well.
+<br>R_Code - Word Document File that holds my R Code incase the R file downloads improperly.
+<br>Offers - Excel file to submit your offers on the new diamonds
+<br>Offers_Final - My submission on diamond prices from my final Model
+<br>project - R file with my code for the case study
+<br>training- Excel file used to train model
 
 # Instructions
 ## Objective
