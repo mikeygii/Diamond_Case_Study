@@ -1,4 +1,4 @@
-# Diamond_Case_Study
+# Diamond Case Study
 # Instructions
 ## Objective
 You own a diamond business and you have to replenish your inventory. You have $5,000,000
@@ -34,8 +34,7 @@ Your profit will be calculated as the sum of retail price the diamonds will even
 the sum of your accepted offers. You make no profit on rejected offers.
 #Short Answer Problems
 Please provide short (a paragraph or so) answers to these questions. Feel free to include any
-charts or graphs that you feel help answer the questions.
-<br>
+charts or graphs that you feel help answer the questions.<br>
 1. Do you think that any of the vendors are over or under charging for diamonds compared
 to the other vendors? Do you think they are selling the same kind of diamonds? How did
 you come to this conclusion?
