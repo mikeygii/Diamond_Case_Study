@@ -40,12 +40,8 @@ to the other vendors? Do you think they are selling the same kind of diamonds? H
 you come to this conclusion?
 2. What is the relationship between Carat and Retail Price? Why do you think the
 relationship takes this form?
-<br>
 ### Scoring
-<br>
-A full submission contains:
-<br>
-We will measure the performance of your model/rules by profit. In other words, we will take
+<br> We will measure the performance of your model/rules by profit. In other words, we will take
 predictions from your scored data and compute the following:
 <br>
 ∑(𝑅𝑒𝑡𝑎𝑖𝑙 𝑃𝑟𝑖𝑐𝑒 𝑜𝑓 𝐴𝑐𝑐𝑒𝑝𝑡𝑒𝑑 𝑂𝑓𝑓𝑒𝑟𝑠 − 𝐴𝑐𝑐𝑒𝑝𝑡𝑒𝑑 𝑂𝑓𝑓𝑒𝑟𝑠)
@@ -53,7 +49,6 @@ predictions from your scored data and compute the following:
 This being said, profit is not the only aspect of your model we will examine. We care about your
 approach and knowledge more and weigh your write up and description just as heavily as your
 final profit.
-<br>
 ### Tips
 <br>
 • Be sure to examine the scoring data before beginning and reflect on what data might
