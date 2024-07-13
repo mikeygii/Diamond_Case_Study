@@ -1,4 +1,7 @@
 # Diamond Case Study
+## File Contents
+Data Dictionary- Contains the fields used in the table and their definitions
+
 # Instructions
 ## Objective
 You own a diamond business and you have to replenish your inventory. You have $5,000,000
